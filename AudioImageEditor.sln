@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AB2C40B8-45DA-4317-86A6-A97C87750A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioImageEditor.Avalonia", "src\AudioImageEditor.Avalonia\AudioImageEditor.Avalonia.csproj", "{EABC7996-BD01-4A7B-819C-441E1DE9AF71}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4DF5474-AE41-40FE-A0F0-5AA7E24BA04A}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABC7996-BD01-4A7B-819C-441E1DE9AF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABC7996-BD01-4A7B-819C-441E1DE9AF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABC7996-BD01-4A7B-819C-441E1DE9AF71}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EABC7996-BD01-4A7B-819C-441E1DE9AF71}.Debug|x64.Build.0 = Debug|Any CPU
+		{EABC7996-BD01-4A7B-819C-441E1DE9AF71}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EABC7996-BD01-4A7B-819C-441E1DE9AF71}.Debug|x86.Build.0 = Debug|Any CPU
+		{EABC7996-BD01-4A7B-819C-441E1DE9AF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABC7996-BD01-4A7B-819C-441E1DE9AF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EABC7996-BD01-4A7B-819C-441E1DE9AF71}.Release|x64.ActiveCfg = Release|Any CPU
+		{EABC7996-BD01-4A7B-819C-441E1DE9AF71}.Release|x64.Build.0 = Release|Any CPU
+		{EABC7996-BD01-4A7B-819C-441E1DE9AF71}.Release|x86.ActiveCfg = Release|Any CPU
+		{EABC7996-BD01-4A7B-819C-441E1DE9AF71}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EABC7996-BD01-4A7B-819C-441E1DE9AF71} = {AB2C40B8-45DA-4317-86A6-A97C87750A66}
+	EndGlobalSection
+EndGlobal
