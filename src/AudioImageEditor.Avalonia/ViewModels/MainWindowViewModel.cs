@@ -70,7 +70,7 @@ public partial class MainWindowViewModel : ViewModelBase
                     {
                         Patterns = new[]
                         {
-                            "*.bmp", "*.jpeg", "*.pbm", "*.pgm", "*.ppm", "*.pnm", "*.pcx", "*.png", "*.tiff", "*.dng"
+                            "*.bmp", "*.jpeg", "*.jpg", "*.pbm", "*.pgm", "*.ppm", "*.pnm", "*.pcx", "*.png", "*.tiff", "*.dng"
                         }
                     }
                 },
